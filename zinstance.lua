@@ -1,5 +1,5 @@
 --[[
-		INSTANCES
+		INSTANCES (V1.0)
 		By Zephruz
 	/* An advanced entity instancing system for GMOD */
 ]]
